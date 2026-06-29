@@ -132,7 +132,7 @@ const Navbar = () => {
           <ButtonCV
             icon={<Download size={16} />}
             text="Descargar CV"
-            href="../../public/CV_Carlos_Navarro_Espanol.pdf"
+            href="/CV_Carlos_Navarro_Espanol.pdf"
           />
         </ul>
       </div>
